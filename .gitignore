@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+.env
+# Global Ignores
+node_modules/
+target/
+dist/
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+.env.*
